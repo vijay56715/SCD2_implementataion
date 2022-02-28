@@ -1,6 +1,7 @@
 # SCD2_implementataion
 
 SCD2 Implementation for employee
+
 **Business scenario:**
 
 John doe works in Google his job there is to keep track of employee’s details of change in project or change in manager and even keep track of the hikes and variable pay changes an employee gets.
