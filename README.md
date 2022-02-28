@@ -10,6 +10,10 @@ John doe works in Google his job there is to keep track of employee’s details 
 He is required to maintain the history record and present record of the employee.
 Hence he decides to hire you to create the best solution for doing the same.
 
+
+![image](https://user-images.githubusercontent.com/100192165/155978117-d05e5152-3bf9-44b8-83dc-fa21e679e3e7.png)
+
+
 **Use case :**
 
 Create an SCD2 implementation over an employees table where to update the target table based on change in salary, comm, job or manager in the source table.
