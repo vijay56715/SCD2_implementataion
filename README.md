@@ -4,6 +4,8 @@ SCD2 Implementation for employee
 
 **Business scenario:**
 
+![image](https://user-images.githubusercontent.com/100192165/155976978-fd2a9748-2b88-4f9b-9e41-6a940590a597.png)
+
 John doe works in Google his job there is to keep track of employee’s details of change in project or change in manager and even keep track of the hikes and variable pay changes an employee gets.
 He is required to maintain the history record and present record of the employee.
 Hence he decides to hire you to create the best solution for doing the same.
@@ -11,6 +13,9 @@ Hence he decides to hire you to create the best solution for doing the same.
 **Use case :**
 
 Create an SCD2 implementation over an employees table where to update the target table based on change in salary, comm, job or manager in the source table.
+
+![image](https://user-images.githubusercontent.com/100192165/155976847-af13a367-6b5a-4064-8b00-b424a79f2635.png)
+
 
 **Iconic view** of SCD2 implementation on employees table
 
