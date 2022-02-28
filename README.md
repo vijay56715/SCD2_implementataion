@@ -14,7 +14,8 @@ Hence he decides to hire you to create the best solution for doing the same.
 
 Create an SCD2 implementation over an employees table where to update the target table based on change in salary, comm, job or manager in the source table.
 
-![image](https://user-images.githubusercontent.com/100192165/155976847-af13a367-6b5a-4064-8b00-b424a79f2635.png)
+![image](https://user-images.githubusercontent.com/100192165/155977502-5fa280d1-69a4-485e-bd67-449d33129186.png)
+
 
 
 **Iconic view** of SCD2 implementation on employees table
